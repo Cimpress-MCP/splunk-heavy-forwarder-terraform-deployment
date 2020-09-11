@@ -1,4 +1,4 @@
-# heavy-forwarder-terraform
+# heavy-forwarder-terraform-deployment
 
 This deploys a Splunk heavy forwarder (HFW) in AWS along with ancillary infrastructure using [Terraform](https://www.terraform.io/).  It requires an AMI for the HFW.  The AMI can be built with an [accompanying Packer repository](https://github.com/Cimpress-MCP/splunk-heavy-forwarder-packer-ami).
 
